@@ -1,4 +1,5 @@
 # Chess Rock movement
+
 #You have a chessboard with only the Rook on it. The Rook can move up, 
 # down, left or right from your perspective. Write a function (or a class) 
 # that takes a series of movements and at the  end of the sequence of 
